@@ -47,7 +47,4 @@ def base_count2(base):
         print(f" {div} decimal in base {base} is {base_count(base, div)}")
         div += 1
     return
-
-
-print(base_count2(16))
 ```
