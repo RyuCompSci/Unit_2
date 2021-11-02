@@ -11,3 +11,4 @@ def MixStart(inp):
 ```
 
 ![](MixStart_quiz_006.png)
+![](MixStart_flowdiagram_computerscience.jpg)
