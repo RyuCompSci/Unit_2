@@ -10,3 +10,4 @@ def MixStart(inp):
     return x
 ```
 
+![](MixStart_quiz_006.png)
