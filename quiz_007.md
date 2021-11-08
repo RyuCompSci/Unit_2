@@ -8,4 +8,4 @@ def letters(inp):
         list.append(x)
     return list
 ```
-1[](letters_quiz_007_compsci.jpg)
+![](letters_quiz_007_compsci.jpg)
