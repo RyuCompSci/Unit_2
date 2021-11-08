@@ -8,3 +8,5 @@ def maxAbs(inp):
             x = inp[i+1]
     return x
 ```
+ 
+ ![](MaxAbs_quiz_008_compsci.jpg)
