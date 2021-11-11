@@ -9,3 +9,5 @@ def missingNumber(inp):
             break
     return x
 ```
+
+![](BigNeighbour_quiz_010_compsci.jpg)
