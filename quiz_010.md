@@ -7,3 +7,5 @@ def BigNeighbour(inp):
             x = abs(inp[i+2]-inp[i+1])
     return x
 ```
+
+![](BigNeighbour_quiz_010_compsci.jpg)
