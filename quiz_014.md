@@ -9,3 +9,6 @@ def evenlySpaced(inp1, inp2, inp3):
         answer = "False"
     return answer
 ```
+
+
+![](quiz_evenlySpaced.jpg)
