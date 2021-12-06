@@ -1,5 +1,6 @@
+### SameFirstLast
 
-
+```.py
 def SameFirstLast(inp):
     len_inp = len(inp)
     result = ""
@@ -8,3 +9,4 @@ def SameFirstLast(inp):
     else:
         result = "FALSE"
     return result
+```
