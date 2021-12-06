@@ -27,3 +27,6 @@ def Total(inp1, inp2):
 
     return total
 ```
+
+
+![](quiz_TotalPrice.jpg)
