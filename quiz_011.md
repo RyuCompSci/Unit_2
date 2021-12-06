@@ -10,3 +10,5 @@ def SameFirstLast(inp):
         result = "FALSE"
     return result
 ```
+
+![](quiz_sameFirstLast.jpg)
