@@ -15,3 +15,6 @@ def Swap(inp):
         swapped = inp
     return swapped
 ```
+
+
+![](quiz_Swap.jpg)
