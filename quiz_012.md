@@ -9,3 +9,5 @@ def wordlength(inp):
     avr = sum/len_inp
     return avr
 ```
+
+![](quiz_wordlength.jpg)
