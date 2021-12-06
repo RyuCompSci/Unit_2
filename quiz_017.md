@@ -20,3 +20,5 @@ def ValidTriangle(inp1, inp2, inp3):
             Output = "False"
     return Output
 ```
+
+![](quiz_Validtriangle.jpg)
