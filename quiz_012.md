@@ -12,4 +12,4 @@ def wordlength(inp):
 
 ![](quiz_wordlength.jpg)
 
-![](スクリーンショット (229).png)
+![](quiz_012p.png)
