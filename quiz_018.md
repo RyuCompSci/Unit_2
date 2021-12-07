@@ -27,3 +27,5 @@ def sum67(inp):
 ```
 
 ![](quiz_sum67.jpg)
+
+![](quiz_018p.png)
