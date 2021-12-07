@@ -25,3 +25,5 @@ def sum67(inp):
             answer += inp[i]
     return answer
 ```
+
+![](quiz_sum67.jpg)
