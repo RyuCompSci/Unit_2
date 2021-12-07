@@ -10,3 +10,5 @@ def ReverseMode(inp):
 ```
 
 ![](quiz_ReverseMode.jpg)
+
+![](quiz_015p.png)
