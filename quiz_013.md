@@ -31,4 +31,4 @@ def Total(inp1, inp2):
 
 ![](quiz_TotalPrice.jpg)
 
-![](スクリーンショット (230).png)
+![](quiz_013p.png)
