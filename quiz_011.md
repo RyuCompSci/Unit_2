@@ -12,3 +12,5 @@ def SameFirstLast(inp):
 ```
 
 ![](quiz_sameFirstLast.jpg)
+
+![](スクリーンショット (225).png)
