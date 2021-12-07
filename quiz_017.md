@@ -22,3 +22,5 @@ def ValidTriangle(inp1, inp2, inp3):
 ```
 
 ![](quiz_Validtriangle.jpg)
+
+![](quiz_017p.png)
