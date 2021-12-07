@@ -8,3 +8,5 @@ def ReverseMode(inp):
     output = F+S+T
     return output
 ```
+
+![](quiz_ReverseMode.jpg)
