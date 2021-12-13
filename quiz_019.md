@@ -14,4 +14,4 @@ def mirroredTime(n:int):
         return output
  ```
  
- ![]()
+ ![](drawio.png)
