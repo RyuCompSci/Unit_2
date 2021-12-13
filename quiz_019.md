@@ -15,3 +15,5 @@ def mirroredTime(n:int):
  ```
  
  ![](drawio.png)
+ 
+ ![](quiz_019p.png)
