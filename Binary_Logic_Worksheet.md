@@ -3,7 +3,8 @@
 
 ## Question1
 
-![]()
+![](BinaryLogicWorksheet_question1&3 (2).jpg
+)
 
 ## Question2
 ![](BinaryLogicWorksheet_question2.jpg)
@@ -12,4 +13,5 @@
 
 ## Question3
 
-![]()
+![](BinaryLogicWorksheet_question1&3 .jpg
+)
