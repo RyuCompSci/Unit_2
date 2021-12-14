@@ -1,4 +1,4 @@
-### Binary Logic Worksheet
+# Binary Logic Worksheet
 
 ![](Binary Logic Worksheet.pdf)
 
@@ -16,7 +16,7 @@
 
 ## Question4
 
-# abbreviation
+### abbreviation
 
 window-----------------> w  
 maindoor---------------> m  
@@ -30,7 +30,7 @@ closet door--------------> c
 door to bedroom-------> p  
 door to sorage room---> s  
 
-# answers
+### answers
 
 (a) (w+w)(Not m)  
 (b) (b)(Not m)  
