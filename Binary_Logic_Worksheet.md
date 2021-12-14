@@ -19,11 +19,11 @@
 window------------------> w  
 maindoor----------------> m  
 baranda-----------------> b  
-TV----------------------> T  
+TV-----------------------> T  
 washing maching---------> l  
 dish washing machine----> d  
-tap in the bathroom-----> t  
-tap in the kitchen------> k  
-closet door-------------> c  
+tap in the bathroom-------> t  
+tap in the kitchen----------> k  
+closet door-----------------> c  
 door to bedroom---------> p  
 door to sorage room-----> s  
