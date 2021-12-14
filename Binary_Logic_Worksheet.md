@@ -36,6 +36,6 @@ door to sorage room---> s
 (b) (b)(Not m)  
 (c) Tld  
 (d) The tap in the bathroom is open when the one in kitchen is open.  
-    tk  
+----tk---- 
 (e) The closet is open when the door to bedroom and strorage room are open.  
-    cps  
+----cps----  
