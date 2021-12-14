@@ -32,10 +32,10 @@ door to sorage room---> s
 
 # answers
 
-(a) (w+w)(Not m)
-(b) (b)(Not m)
-(c) Tld
-(d) The tap in the bathroom is open when the one in kitchen is open.
-    tk
-(e) The closet is open when the door to bedroom and strorage room are open
-    cps
+(a) (w+w)(Not m)  
+(b) (b)(Not m)  
+(c) Tld  
+(d) The tap in the bathroom is open when the one in kitchen is open.  
+    tk  
+(e) The closet is open when the door to bedroom and strorage room are open.  
+    cps  
