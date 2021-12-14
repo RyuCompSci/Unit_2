@@ -20,7 +20,7 @@ window-----------------> w
 maindoor---------------> m  
 baranda-----------------> b  
 TV-----------------------> T  
-washing maching--------> l  
+washing maching-------> l  
 dish washing machine--> d  
 tap in the bathroom----> t  
 tap in the kitchen-------> k  
