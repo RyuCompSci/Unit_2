@@ -12,3 +12,5 @@
 ```
 
 ![](quiz_021.png)
+
+![](quiz_o21_result.png)
